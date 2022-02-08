@@ -1,0 +1,127 @@
+{
+  "selectedTemplate": 6,
+  "headings": {
+    "work": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Paul Jerome",
+    "email": "contactpauljerome@gmail.com",
+    "phone": "2527378220",
+    "location": {
+      "address": "Seattle, WA"
+    },
+    "website": "LinkedIn: https://www.linkedin.com/in/paul-jerome-55775b122/"
+  },
+  "education": [],
+  "work": [
+    {
+      "highlights": [
+        "Developed Vue.js frontend and Nest.js backend for enterprise scale video conference platform",
+        "Improved and extended WebSocket pipeline to push subscriber updates from Redis to the frontend",
+        "Implemented recording service and corresponding Terraform infrastructure to configure and deploy s3 bucket for recordings",
+        "Led the development of regression testing scripts in cypress and webdriver",
+        "Developed database schema and migrations using TypeOrm and PostgreSQL"
+      ],
+      "company": "Courtcall LLC",
+      "position": "Software Engineer",
+      "location": "Remote",
+      "startDate": "October 2020",
+      "endDate": "Present"
+    },
+    {
+      "company": "Social Boost",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "October 2019",
+      "endDate": "February 2020",
+      "highlights": [
+        "Implemented new checkout process for brokers/agents to automate market listings with facebook lead ads",
+        "Worked extensively with Facebook Graph API and Marketing API via PHP SDK",
+        "Refactored Simply Home dashboard UI by extending and creating data-driven react components"
+      ],
+      "location": "Remote"
+    },
+    {
+      "highlights": [
+        "Assisted high school and college students raise their grades and get caught up with their peers",
+        "Built fundamental confidence with the use of leading questions tailored to the student's learning style",
+        "Created custom homework assignments that inspired independent learning"
+      ],
+      "company": "HeyTutor",
+      "position": "Freelance Math and Science Tutor",
+      "location": "Seattle, WA",
+      "startDate": "May 2018",
+      "endDate": "Present"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "JavaScript/Node",
+        "Typescript",
+        "Vue.js/Vuetify",
+        "Nest.js",
+        "React",
+        "Redis",
+        "TypeORM",
+        "Redux/Vuex"
+      ],
+      "name": "Languages/Frameworks"
+    },
+    {
+      "keywords": [
+        "Git",
+        "Docker",
+        "Terraform",
+        "Nginx",
+        "ELK",
+        "Webpack",
+        "Linux/Bash",
+        "ES Lint",
+        "PostgreSQL"
+      ],
+      "name": "Infrastructure/Tools"
+    },
+    {
+      "keywords": [
+        "Jest",
+        "Cypress",
+        "Selenium Webdriver"
+      ],
+      "name": "Testing"
+    },
+    {
+      "keywords": [
+        "Persistently Curious",
+        "Ambitiously Kind",
+        "Thoughtful Communicator",
+        "Compassionate Mentor"
+      ],
+      "name": "Traits"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Othello",
+      "keywords": [
+        "2019"
+      ],
+      "description": "A passion project to recreate one of my favorite ancient board games. I developed my version of Othello utilizing a javascript stack (React/Redux/Node/Express) with a MySQL database. This project has challenged me to make difficult design decisions and learn from my mistakes constantly. The most helpful concept I have learned from this project is the value of unit testing. I also have learned how to write much cleaner and more modular code by utilizing linting tools.",
+      "url": "https://github.com/paulthomasjerome/Othello"
+    }
+  ],
+  "awards": [],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
